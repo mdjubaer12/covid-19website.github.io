@@ -91,7 +91,11 @@ header.sticky{
 .home{
     /*background:url(../images/home-bg.jpg) no-repeat;*/
     /*background-image: url("../images/corona.png");*/
+<<<<<<< HEAD
     background-image: url("real images/covid-19-bg.jpg");
+=======
+    background-image: url(real images/covid-19-bg.jpg");
+>>>>>>> a8dab0db499463f32a91ffe9f87dab372dcbef31
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
